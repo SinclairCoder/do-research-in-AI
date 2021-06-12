@@ -70,7 +70,7 @@
 - [x] [ResearchGo: 研究生活第九帖——当我们在读论文时，我们在读些什么？](https://zhuanlan.zhihu.com/p/124855923)
 
 
-<br />赵鑫老师的分享，感觉启发很大
+赵鑫老师的分享，感觉启发很大
 
 - [x] [赵鑫老师：计算机系本科生开展科研学习的九问九答](https://zhuanlan.zhihu.com/p/139287474)
 - [x] [赵鑫老师：研究生的早期科研之路](https://zhuanlan.zhihu.com/p/149020933)
@@ -83,20 +83,24 @@
 
 - [ ] [知乎提问：一个博士生接受怎样的训练是完整、全面的科研训练？](https://www.zhihu.com/question/384512106/answer/1131397675)
 
-<br />
-
 - [x] [小川Ryan：研究生新生要怎么看论文](https://www.zhihu.com/question/304334959/answer/828667356)
 - [x] [小川Ryan：博士自救指南之文献阅读篇](https://zhuanlan.zhihu.com/p/271170768)
 
-<br />
-
 - [x] [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://zhuanlan.zhihu.com/p/163227375)
-
-<br />
 
 - [x] [李正华老师的一些感触和思考](http://hlt.suda.edu.cn/index.php/My-thoughts-zhenghua)
 
+- [x] [田渊栋：作为入行数年的专业科研工作者，你每周看几篇 paper ？](https://www.zhihu.com/question/30022694/answer/224543003)
+- [x] [如何看待本科生科研？](https://www.zhihu.com/question/457315333/answer/1871259279)
 
+<br />
+
+**一些大牛的经历：**
+
+- [x] [李沐：博士这五年](https://zhuanlan.zhihu.com/p/25099638)
+- [x] [陈天奇：机器学习科研的十年](https://zhuanlan.zhihu.com/p/74249758)
+- [ ] [Shou Zheng: 计算机视觉 | 哥大读博五年总结（全）](https://zhuanlan.zhihu.com/p/338193330)
+- [ ] 更多请参考：[读博总结的总结：整理优质的CS读博(PhD)总结和建议文章](https://zhuanlan.zhihu.com/p/347223193)
 
 
 
