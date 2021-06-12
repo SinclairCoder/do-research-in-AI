@@ -1,7 +1,7 @@
 # AI领域科研讲座/文章分享
 
-给大家分享一些来自于一线科研人员带来的科研分享/技能提升讲座，帮助大家升级打怪。
-
+给大家分享一些来自于一线科研人员带来的科研分享/技能提升讲座，帮助大家科研路上升级打怪。
+[](https://img.shields.io/badge/build-welcome%20to%20contribute%EF%BC%81-brightgreen.svg)
 
 ## Talk
 
