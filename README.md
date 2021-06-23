@@ -1,6 +1,6 @@
 # AI领域科研讲座/经验帖子分享
 
-给大家分享一些来自于一线科研人员带来的科研分享/技能提升讲座，帮助大家科研路上升级打怪。
+给大家分享一些来自于一线科研人员带来的科研分享/技能提升讲座与经验分享帖子，帮助大家科研路上升级打怪。
 
 ![](https://img.shields.io/badge/build-welcome%20to%20contribute%EF%BC%81-brightgreen.svg) ![](https://img.shields.io/github/stars/SinclairCoder/do-research-in-AI?style=social) ![](https://img.shields.io/github/contributors/SinclairCoder/do-research-in-AI?style=social)
 
@@ -9,8 +9,8 @@
 ### 智源研究院
 - [x] **2021智源大会 科研技能提升讲座**
   - [x] [清华大学刘洋: 如何撰写高质量科技论文](https://www.bilibili.com/video/BV1QK4y1g71C)
-  - [x] [北京大学施柏鑫: 审稿视角下的计算机视觉论文从投稿到接收](https://www.bilibili.com/video/BV1p64y1R7JP)
-  - [x] [Panel: 刘知远、赵鑫、施柏鑫共话AI青年科研人员成长之路](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247609974&idx=1&sn=8f7e24564b905893536d536bb06f6471&chksm=909527e5a7e2aef35cf35cc93b4cacafa8e1b2a63e8af6627e25d91348f3884364c81ef05bc8&mpshare=1&scene=23&srcid=0612Y2h0bzkx8ZVAkkmWCfik&sharer_sharetime=1623471321678&sharer_shareid=e3fac610a51f80cbddf092286e1a80a1#rd)
+  - [x] [北京大学施柏鑫: 审稿视角下的计算机视觉论文从投稿到接收](https://www.bilibili.com/video/BV1p64y1R7JP) [文字版](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247612318&idx=1&sn=b54621e959c2f4850a3fcc7486e0199a&chksm=90953e0da7e2b71b660dc0a7feefbf08a26db78bee5eaba73bf277ee0562b98d6d32a4a1d093&mpshare=1&scene=23&srcid=0623cDFA9oHwwdz4aCtpF8di&sharer_sharetime=1624455513912&sharer_shareid=e3fac610a51f80cbddf092286e1a80a1#rd)
+  - [x] [Panel: 刘知远、赵鑫、施柏鑫共话AI青年科研人员成长之路(文字版)](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247609974&idx=1&sn=8f7e24564b905893536d536bb06f6471&chksm=909527e5a7e2aef35cf35cc93b4cacafa8e1b2a63e8af6627e25d91348f3884364c81ef05bc8&mpshare=1&scene=23&srcid=0612Y2h0bzkx8ZVAkkmWCfik&sharer_sharetime=1623471321678&sharer_shareid=e3fac610a51f80cbddf092286e1a80a1#rd)
 
 - [ ] [智源论坛Live丨论文写作线上专题报告会：三位青年科学家深入指导学术论文写作](https://www.bilibili.com/video/BV1n7411o7dU)
   - [ ] [计算所兰艳艳：论文写作小白的成长之路](https://www.bilibili.com/video/BV1n7411o7dU?p=1)
@@ -54,6 +54,9 @@
 - [ ] [沈向洋博士2020.5.14直播"You are how you read"](https://www.bilibili.com/video/BV1df4y1m74k?from=search&seid=1663734638736103523)
 
 
+### AI TIME
+- [ ] [我的科研生涯 从博士到博导-张弘扬](https://www.bilibili.com/video/BV1XX4y1A7eH)
+- [ ] [多语言学习：如何从兴趣到科研-胡俊杰](https://www.bilibili.com/video/BV1Po4y1C71T)
 
 
 ## Article
@@ -101,6 +104,9 @@
 - [x] [陈天奇：机器学习科研的十年](https://zhuanlan.zhihu.com/p/74249758)
 - [ ] [Shou Zheng: 计算机视觉 | 哥大读博五年总结（全）](https://zhuanlan.zhihu.com/p/338193330)
 - [ ] 更多请参考：[读博总结的总结：整理优质的CS读博(PhD)总结和建议文章](https://zhuanlan.zhihu.com/p/347223193)
+
+**博士修行指导资源汇总帖子：**
+- [ ] [Doing the PhD](https://github.com/shengyp/doing_the_PhD)
 
 
 
