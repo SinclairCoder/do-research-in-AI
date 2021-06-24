@@ -98,6 +98,10 @@
 
 <br />
 
+- [] [清华姚班教师劝退文：读博，你真的想好了吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247612544&idx=2&sn=0486229e5b1dd56fdaaba08ae9b49995&chksm=90953113a7e2b80547bb5bca96519d19f5e224bb941342cd2abe065578a9e4f578164daec629&mpshare=1&scene=23&srcid=06244m9oScThhVGeq1QRWMz4&sharer_sharetime=1624532114632&sharer_shareid=e3fac610a51f80cbddf092286e1a80a1#rd)
+
+<br />
+
 **一些大牛的经历：**
 
 - [x] [李沐：博士这五年](https://zhuanlan.zhihu.com/p/25099638)
