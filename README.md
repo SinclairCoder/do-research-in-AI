@@ -60,7 +60,7 @@
 
 
 ## Article
-最近看了一个系列，@[王晋东不在家](https://www.zhihu.com/people/jindongwang)的 **研究生活九帖**（目前更新到第九帖了）
+最近看了一个系列，@[王晋东不在家](https://www.zhihu.com/people/jindongwang)的 **研究生活九帖**
 
 - [x] [ResearchGo:研究生活第一帖——文献检索与管理](https://zhuanlan.zhihu.com/p/22323250?refer=wjdml)
 - [x] [ResearchGo:研究生活第二贴——文献阅读](https://zhuanlan.zhihu.com/p/22402393?refer=wjdml)
@@ -95,6 +95,8 @@
 
 - [x] [田渊栋：作为入行数年的专业科研工作者，你每周看几篇 paper ？](https://www.zhihu.com/question/30022694/answer/224543003)
 - [x] [如何看待本科生科研？](https://www.zhihu.com/question/457315333/answer/1871259279)
+
+- [x] [王鸿伟: 没有导师的指导，研究生如何阅读文献、提出创见、写论文？](https://www.zhihu.com/question/23647187/answer/568803695)
 
 <br />
 
