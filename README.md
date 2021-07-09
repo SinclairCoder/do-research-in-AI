@@ -82,6 +82,7 @@
 
 <br />
 
+- [ ] [刘知远老师：如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
 - [ ] [周志华教授：如何做研究与写论文](https://zhuanlan.zhihu.com/p/98747105)
 
 - [ ] [知乎提问：一个博士生接受怎样的训练是完整、全面的科研训练？](https://www.zhihu.com/question/384512106/answer/1131397675)
