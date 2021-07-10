@@ -114,6 +114,7 @@
 
 **博士修行指导资源汇总帖子：**
 - [ ] [Doing the PhD](https://github.com/shengyp/doing_the_PhD)
+- [ ] [NLP Phd Gobal Equality](https://github.com/zhijing-jin/nlp-phd-global-equality)
 
 
 
