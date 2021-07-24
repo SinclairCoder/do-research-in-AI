@@ -10,7 +10,7 @@
 - [x] **2021智源大会 科研技能提升讲座**
   - [x] [清华大学刘洋: 如何撰写高质量科技论文](https://www.bilibili.com/video/BV1QK4y1g71C)
   - [x] [北京大学施柏鑫: 审稿视角下的计算机视觉论文从投稿到接收](https://www.bilibili.com/video/BV1p64y1R7JP) [文字版](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247612318&idx=1&sn=b54621e959c2f4850a3fcc7486e0199a&chksm=90953e0da7e2b71b660dc0a7feefbf08a26db78bee5eaba73bf277ee0562b98d6d32a4a1d093&mpshare=1&scene=23&srcid=0623cDFA9oHwwdz4aCtpF8di&sharer_sharetime=1624455513912&sharer_shareid=e3fac610a51f80cbddf092286e1a80a1#rd)
-  - [x] [Panel: 刘知远、赵鑫、施柏鑫共话AI青年科研人员成长之路(文字版)](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247609974&idx=1&sn=8f7e24564b905893536d536bb06f6471&chksm=909527e5a7e2aef35cf35cc93b4cacafa8e1b2a63e8af6627e25d91348f3884364c81ef05bc8&mpshare=1&scene=23&srcid=0612Y2h0bzkx8ZVAkkmWCfik&sharer_sharetime=1623471321678&sharer_shareid=e3fac610a51f80cbddf092286e1a80a1#rd)
+  - [x] [Panel: 刘知远、赵鑫、施柏鑫共话AI青年科研人员成长之路(文字版)](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247609974&idx=1&sn=8f7e24564b905893536d536bb06f6471&chksm=909527e5a7e2aef35cf35cc93b4cacafa8e1b2a63e8af6627e25d91348f3884364c81ef05bc8&mpshare=1&scene=23&srcid=0612Y2h0bzkx8ZVAkkmWCfik&sharer_sharetime=1623471321678&sharer_shareid=e3fac610a51f80cbddf092286e1a80a1#rd) [[video]](https://hub.baai.ac.cn/view/8660)
 
 - [ ] [智源论坛Live丨论文写作线上专题报告会：三位青年科学家深入指导学术论文写作](https://www.bilibili.com/video/BV1n7411o7dU)
   - [ ] [计算所兰艳艳：论文写作小白的成长之路](https://www.bilibili.com/video/BV1n7411o7dU?p=1)
@@ -84,7 +84,8 @@
 
 - [ ] [刘知远老师：如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
 - [ ] [周志华教授：如何做研究与写论文](https://zhuanlan.zhihu.com/p/98747105)
-
+- [x] [清华刘洋：论文写作，信息为表，逻辑为骨，思想为心](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247501863&idx=1&sn=550faec84106d09d4e60c4daf339695f&chksm=febc8be3c9cb02f568c214e93221a02e9c2f7bff91779ab05cff80852d9708a4e44bb77e70fc&mpshare=1&scene=23&srcid=0720uq5AgnUvF3ll6EX9iQYu&sharer_sharetime=1626786536952&sharer_shareid=f5e76e932a68e64366a850087d240f3c#rd) [[video]](https://hub.baai.ac.cn/view/8658)
+- [x] [香侬科技 李纪为: 初入NLP领域的一些小建议](https://zhuanlan.zhihu.com/p/59184256)
 - [ ] [知乎提问：一个博士生接受怎样的训练是完整、全面的科研训练？](https://www.zhihu.com/question/384512106/answer/1131397675)
 
 - [x] [小川Ryan：研究生新生要怎么看论文](https://www.zhihu.com/question/304334959/answer/828667356)
