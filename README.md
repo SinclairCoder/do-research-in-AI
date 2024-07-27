@@ -4,6 +4,20 @@
 
 ![](https://img.shields.io/badge/build-welcome%20to%20contribute%EF%BC%81-brightgreen.svg) ![](https://img.shields.io/github/stars/SinclairCoder/do-research-in-AI?style=social) ![](https://img.shields.io/github/contributors/SinclairCoder/do-research-in-AI?style=social)
 
+
+## 方法论
+
+By Naiyan Wang:
+
+- [如何评价 Kaiming He 在 ICCV 2017 上拿下双 Best 的 paper？ - Naiyan Wang的回答](https://www.zhihu.com/question/67119841/answer/263317039): 哪怕很小的很细节的东西深入思考都可以做成一篇paper，产生不可磨灭的影响。
+- [对于读博或者长期做科研，选一个自己喜欢的方向比较好，还是选一个不那么喜欢、但容易出成果的方向比较好？](https://www.zhihu.com/question/65483475/answer/238850727): 科研research taste的培养与方法论。
+- [闲聊几句科研三观 - Naiyan Wang的文章](https://zhuanlan.zhihu.com/p/37042197): 科研应该慢下来，科研不需要有神秘感，科研应该要有敬畏心，科研要有责任心。
+- [老文重发：我的PhD总结暨关于PhD的十个问题](https://zhuanlan.zhihu.com/p/438640120)
+
+
+
+
+
 ## Talk
 
 ### 智源研究院
